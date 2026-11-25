@@ -1,5 +1,22 @@
 # Examen 2: Cantina Centrului Județean de Pregătire
 
+## Reguli de Predare (Citește Primul)
+
+> **Doar lucrările trimise prin Git vor fi evaluate.** Soluțiile trimise prin email, chat, screenshot sau orice alt canal nu vor fi acceptate.
+
+1. **Creează un branch din `main`.** Deschide un branch curat numit exact:
+   ```
+   exam/firstname_lastname
+   ```
+   Exemplu: `exam/ion_popescu`
+2. **Lucrează doar pe branch-ul tău.** Nu face push direct pe `main`.
+3. **Deschide un Pull Request către `main` când ai terminat.** Titlul PR-ului trebuie să fie exact:
+   ```
+   EXAM - Prenume Nume
+   ```
+   Exemplu: `EXAM - Ion Popescu`
+4. **Fă commit și push înainte de expirarea timpului.** Un PR care nu este deschis până la termenul limită nu va fi evaluat.
+
 ## Povestea
 Un centru județean de pregătire găzduiește un mare atelier de servicii publice, iar cantina trebuie să servească personalul rapid și corect în timpul pauzei de prânz. Codul tău va ajuta cantina să înregistreze comenzile, să calculeze totalurile și să pregătească mesele în ordinea corectă a cozii.
 

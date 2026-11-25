@@ -1,5 +1,22 @@
 # Exam 2: County Training Center Canteen
 
+## Submission Rules (Read First)
+
+> **Only work submitted via Git will be graded.** Solutions sent by email, chat, screenshot, or any other channel will not be accepted.
+
+1. **Branch from `main`.** Open a clean branch named exactly:
+   ```
+   exam/firstname_lastname
+   ```
+   Example: `exam/john_doe`
+2. **Work only on your branch.** Do not push directly to `main`.
+3. **Open a Pull Request into `main` when done.** The PR title must be exactly:
+   ```
+   EXAM - Firstname Lastname
+   ```
+   Example: `EXAM - John Doe`
+4. **Commit and push your work before time is up.** A PR that is not opened by the deadline will not be reviewed.
+
 ## Story
 A county training center is hosting a large public-service workshop, and the canteen must serve staff quickly and correctly during the lunch break. Your code will help the canteen register orders, calculate totals, and prepare meals in the right queue order.
 
